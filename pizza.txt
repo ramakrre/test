@@ -1,0 +1,10 @@
+how to order pizza
+
+
+1)goto website pizza.com
+
+2)logintgo your account
+
+3)select type of pizza
+
+4)order
